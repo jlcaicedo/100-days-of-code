@@ -44,3 +44,12 @@
 **Thoughts:** today resolved one problem in some wordress we need one plugin with Facebook Pixel.
 
 **Link to work:** [Wordpress Facebook pixel Plugin](https://github.com/sj-social-media/addons-for-pixel/releases/tag/latest)
+
+### Day 5: July 29, 2020
+##### (Make Plugin Wordpress)	
+
+**Today's progress:** Today I make one plugin an send to wordpress for reviews.
+
+**Thoughts:** today resolved one problem in some wordress we need one plugin with Facebook Pixel.
+
+**Link to work:** [Wordpress Facebook pixel Plugin](https://github.com/sj-social-media/addons-for-pixel/releases/tag/latest)
