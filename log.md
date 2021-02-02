@@ -53,3 +53,14 @@
 **Thoughts:** today resolved one problem in some wordress we need one plugin with Facebook Pixel.
 
 **Link to work:** [Wordpress Facebook pixel Plugin](https://github.com/sj-social-media/addons-for-pixel/releases/tag/latest)
+
+## Start Again
+### Day 0: Feb 01, 2021
+##### (Make Update to SJ Social Media Page)	
+
+**Today's progress:** Today I start traslate thew page to ReactJS.
+
+**Thoughts:** today intent resolved one integration with REactJS and SendGrid.
+
+**Link to work:** [SJ Social Media Web Page](https://sjsocialmedia.com/)
+
